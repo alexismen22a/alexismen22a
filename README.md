@@ -1,8 +1,8 @@
 ### Hi there 👋
 
+<a href="https://www.freecounterstat.com" title="counter for website"><img src="https://counter5.optistats.ovh/private/freecounterstat.php?c=x1gmrlh86lfqhbcmq17cf7e36hwj6n8b" border="0" title="counter for website" alt="counter for website"></a>
 
 
-<div id="sfcx1gmrlh86lfqhbcmq17cf7e36hwj6n8b"></div><script type="text/javascript" src="https://counter5.optistats.ovh/private/counter.js?c=x1gmrlh86lfqhbcmq17cf7e36hwj6n8b&down=async" async></script><br><a href="https://www.freecounterstat.com">counter for website</a><noscript><a href="https://www.freecounterstat.com" title="counter for website"><img src="https://counter5.optistats.ovh/private/freecounterstat.php?c=x1gmrlh86lfqhbcmq17cf7e36hwj6n8b" border="0" title="counter for website" alt="counter for website"></a></noscript>
 
 <!--
 **alexismen22a/alexismen22a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
