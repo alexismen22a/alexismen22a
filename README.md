@@ -1,7 +1,7 @@
 ### Welcome To My GitHub >.<
 
 <img src="https://visitor-badge.glitch.me/badge?page_id=alexismen22a" alt="visitor badge" data-canonical-src="https://visitor-badge.glitch.me/badge?page_id=alexismen22a" style="max-width: 100%;">
-
+![](https://komarev.com/ghpvc/?username=alexismen22a)
 <img src="https://i.giphy.com/media/RtdRhc7TxBxB0YAsK6/giphy.webp" width="200"> 
 
 <!--
